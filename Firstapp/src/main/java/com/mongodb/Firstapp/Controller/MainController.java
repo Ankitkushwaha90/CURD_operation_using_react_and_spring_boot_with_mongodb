@@ -80,6 +80,7 @@ public class MainController {
 
         student.setName(studentDetails.getName());
         student.setId(studentDetails.getId());
+         student.setRno(studentDetails.getRno());
 
         return studentRepo.save(student);
     }
