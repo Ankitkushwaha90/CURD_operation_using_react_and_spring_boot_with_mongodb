@@ -8,6 +8,11 @@
 ### GRDLE spring-boot-3.1.5 java
 - jar
 - java --version 17
+# or
+### mvn install
+```cmd
+./mvnw spring-boot:run
+```
 ### Create model in /com.MongoSpring.MongoSpring/
 - Controller/MainController.java
 ```java
