@@ -13,7 +13,7 @@
 ```cmd
 ./mvnw spring-boot:run
 ```
-### Create model in /com.MongoSpring.MongoSpring/
+### Create Controller/MainController.java in /com.MongoSpring.MongoSpring/
 - Controller/MainController.java
 ```java
 package com.mongodb.Firstapp.Controller;
