@@ -1,6 +1,6 @@
-# Backend Spring boot framework ->
-create from this link
-[click me](https://start.spring.io/)
+# Backend framework using from Spring boot 
+- from this link
+- [click me](https://start.spring.io/)
 ### using dependency 
 - Spring Web
 - Spring Data MongoDB
@@ -153,7 +153,7 @@ server.port:8081
 spring.data.mongodb.uri=mongdb_url_from_your_account
 
 ```
-# Fronend frame create on react
+# Fronend framework using react
 ```jsx
 import React, { useState, useEffect } from "react";
 import axios from "axios";
