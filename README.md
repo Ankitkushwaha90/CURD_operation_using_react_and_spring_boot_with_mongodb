@@ -13,7 +13,8 @@
 ```cmd
 ./mvnw spring-boot:run
 ```
-### Create Controller/MainController.java for example of path -> Firstapp/src/main/java/com/mongodb/Firstapp
+### Create Controller/MainController.java for example of path 
+- Firstapp/src/main/java/com/mongodb/Firstapp
 - Controller/MainController.java
 ```java
 package com.mongodb.Firstapp.Controller;
